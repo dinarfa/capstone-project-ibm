@@ -50,6 +50,7 @@ Hasil disimpan dalam format terstruktur dan digunakan untuk visualisasi dan insi
 
 ## 🧑‍💻 Author
 
-Nama: Dinar Fauziah [Data Batch 7]
-Proyek ini dibuat sebagai bagian dari tugas Capstone IBM x Hacktiv8.
+Nama: Dinar Fauziah 
+Project: Capstone IBM x Hacktiv8  
+Tahun: 2025 [Data-Batch 7]
 
