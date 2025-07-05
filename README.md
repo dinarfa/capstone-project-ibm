@@ -51,7 +51,6 @@ Hasil disimpan dalam format terstruktur dan digunakan untuk visualisasi dan insi
 ## 🧑‍💻 Author
 
 Nama: Dinar Fauziah 
-
 Project: Capstone IBM x Hacktiv8  
 Tahun: 2025 [Data-Batch 7]
 
