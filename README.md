@@ -1,6 +1,6 @@
 # Starbucks Review Classification
 
-Capstone Project — Sentiment Analysis with IBM Granite
+Capstone Project — Klasifikasi Sentimen dan Identifikasi Fokus pada Ulasan Pelanggan Starbucks Dengan IBM Granite
 
 ---
 
