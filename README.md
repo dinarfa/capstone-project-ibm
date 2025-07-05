@@ -1,4 +1,3 @@
-# capstone-project-ibm
 # Starbucks Review Classification
 
 Capstone Project — Sentiment Analysis with IBM Granite
@@ -14,8 +13,8 @@ Proyek ini bertujuan untuk mengklasifikasikan sentimen (Positive, Negative, Mixe
 
 ## 🔗 Raw Dataset
 
-Dataset diambil dari sumber GitHub berikut:  
-📂 [Raw Dataset CSV](https://raw.githubusercontent.com/dinarfa/capstone-project-ibm/refs/heads/main/reviews_data.csv)
+Dataset diambil dari sumber Kaggle berikut:  
+📂 [Raw Dataset CSV](https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset)
 
 ---
 
