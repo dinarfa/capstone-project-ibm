@@ -1,4 +1,4 @@
-# Starbucks Review Classification
+# Starbucks Review Sentiment Analysis
 
 Capstone Project — Klasifikasi Sentimen dan Identifikasi Fokus pada Ulasan Pelanggan Starbucks Dengan IBM Granite
 
@@ -29,10 +29,14 @@ Dataset diambil dari sumber Kaggle berikut:
 
 ## 🤖 AI Support Explanation
 
-- Menggunakan model **IBM Granite 3.3-8b Instruct** melalui API Replicate  
-- Prompt dirancang dua tahap: klasifikasi sentimen dan identifikasi fokus  
-- AI cukup akurat memahami review dengan konteks kontras (kata “but”, “although”, dsb.)  
-- Output terstruktur dan digunakan untuk analisis lanjutan (visualisasi & insight)
+Proyek ini menggunakan **IBM Granite 8B Instruct Model** melalui API Replicate.  
+Model digunakan untuk:
+- **Sentiment classification** → Memberi label: Positive, Negative, atau Mixed  
+- **Aspect/focus extraction** → Menandai topik seperti employee, product, service, dll.
+
+Prompt disusun untuk mendeteksi kontras semantik (mis. kata: *but, although, despite*) agar AI bisa mengenali *mixed sentiment*.  
+Hasil disimpan dalam format terstruktur dan digunakan untuk visualisasi dan insight.
+
 
 ---
 
@@ -48,3 +52,4 @@ Dataset diambil dari sumber Kaggle berikut:
 
 Nama: Dinar Fauziah  
 Proyek ini dibuat sebagai bagian dari tugas Capstone IBM x Hacktiv8.
+Data Batch 7 
